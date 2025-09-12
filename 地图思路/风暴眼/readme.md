@@ -20,22 +20,30 @@ B点
 ---
 ![B点地图](./readme_assets/StageB.jpg)
 * 进攻方载具 
+  * 轻坦 * (待填充) 场上限 (待填充) CD (待填充)s
 * 防守方载具
+  * 轮突 * (待填充) 场上限 (待填充) CD (待填充)s
 
 C点
 ---
 ![C点地图](./readme_assets/StageC.jpg)
 * 进攻方载具 
+  * 轻坦 * (待填充) 场上限 (待填充) CD (待填充)s
 * 防守方载具
+  * 无
 
 D点
 ---
 ![D点地图](./readme_assets/StageD.jpg)
 * 进攻方载具 
+  * 无
 * 防守方载具
+  * 无
 
 E点
 ---
 ![E点地图](./readme_assets/StageE.jpg)
 * 进攻方载具 
+  * 无
 * 防守方载具
+  * 无
